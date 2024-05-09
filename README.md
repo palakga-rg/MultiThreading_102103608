@@ -21,4 +21,4 @@ Graph:
 ![image](https://github.com/Kushagrekaushik/MultiThreading_102103608/assets/100528019/8549884d-df3c-46d0-85cf-50919792d0bd)
 
 
-![download]: https://github.com/Kushagrekaushik/MultiThreading_102103608.git)
+![download]: https://github.com/palakga-rg/MultiThreading_102103608.git)
